@@ -32,7 +32,7 @@ python3 smshash.py temporary.keystore PlayDeploymentCert 12345678 com.example.my
 
 In this command, replace `PlayDeploymentCert` with the alias you used in step 2, `com.example.myapp` with your app package name, and `12345678` with your keystore password.
 
- ## 4 - Add the hash string to sms in backend
+ ## Step 4: Add the hash string to sms in backend
 - Add the hash string to the sms message in the following format
 ```
 <#> Your ExampleApp code is: 123ABC78
