@@ -36,5 +36,5 @@ In this command, replace `PlayDeploymentCert` with the alias you used in step 2,
 - Add the hash string to the sms message in the following format
 ```
 <#> Your ExampleApp code is: 123ABC78
-FA+9qCX9VSu
+FA+9qCX9VSu - replace it with your app hash
 ```
